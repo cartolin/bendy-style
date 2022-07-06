@@ -1,2 +1,2 @@
 # bendy-style
-Sistema Saas
+Sistema para estilos de una aplicación
